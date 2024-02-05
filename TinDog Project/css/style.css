@@ -28,14 +28,10 @@
   margin-top: 3rem;
 }
 
-.d-block{
-  padding-top: 5px;
-  padding-bottom: 0px;
-}
-
 .img-fluid {
   max-width: 100%;
   height: auto;
+  margin-top: 70px;
 }
 @media (min-width: 992px)
 .mx-lg-auto {
